@@ -10,6 +10,7 @@ The Bioconductor project has had profound influence on the statistical analysis 
 ### Video: https://www.youtube.com/watch?v=YEQ5xFewbdA&t=14m57s
 ### Slides: [Keynote Slides](https://github.com/Chicago-R-User-Group/2019-n6-useR-2019-bRew-and-View/blob/master/martin-morgan-bioconductor-keynote.pdf)
 
+---
 
 ## Julie Josse: A missing value tour in R
 In many application settings, the data have missing features which make data analysis challenging. An abundant literature addresses missing data as well as more than 150 R packages. Julie has created an R-miss-tastic platform along with a dedicated task view (https://cran.r-project.org/web/views/MissingData.html) which aims at giving an overview of main references, contributors, tutorials to offer users keys to analyze their data. This plate form highlights that this is an active field of work and that as usual different problems requires designing dedicated methods.
